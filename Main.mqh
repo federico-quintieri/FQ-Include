@@ -6,6 +6,8 @@
 #property copyright "Copyright 2024, MetaQuotes Ltd."
 #property link      "https://www.mql5.com"
 
+// Librerie FQInclude collegate a repository su GitHub
+
 //+------------------------------------------------------------------+
 //| File che serve per includere tutte le mie librerie               |
 //+------------------------------------------------------------------+
