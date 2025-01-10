@@ -7,6 +7,7 @@
 #property link      "https://www.mql5.com"
 
 // Librerie FQInclude collegate a repository su GitHub
+// Test 1 Cambiato master a main branch
 
 //+------------------------------------------------------------------+
 //| File che serve per includere tutte le mie librerie               |
