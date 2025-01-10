@@ -8,6 +8,7 @@
 
 // Librerie FQInclude collegate a repository su GitHub
 // Test 1 Cambiato master a main branch
+// Ho cambiato il nome della repo da FQ-Include a FQInclude
 
 //+------------------------------------------------------------------+
 //| File che serve per includere tutte le mie librerie               |
